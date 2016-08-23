@@ -1,5 +1,5 @@
 #Project summary
-This repo contains the results of a two-week summer training of a group of 14 high-schoolers and secondary school students (15 -18 years) at FabLab Oulu (06.06.2016 - 17.06.2016). During the training participants familiarised with FabLab concept, machines and tools. They learnt how to create a Arduino Shield from scratch, including several sensors and actuators, how to use a 3D printer and a laser cutter to create the mechanics for an electronic device as well as Arduino programming principles. The training followed a practical approach. Trainees created a robot that meets the requirements provided during the first day. 
+This repo contains the results of a two-week summer training (06.06.2016 - 17.06.2016) of a group of 14 high-schoolers and secondary school students (15 -18 years) at **FabLab Oulu (University of Oulu, Finland)**. During the training participants familiarised with FabLab concept, machines and tools. They learnt how to create a Arduino Shield from scratch, including several sensors and actuators, how to use a 3D printer and a laser cutter to create the mechanics for an electronic device as well as Arduino programming principles. The training followed a practical approach. Trainees created a robot that meets the requirements provided during the first day. 
 
 The trainees were divided in 4 teams. They had to implement an alarm-bot which is able to move, make noise and turn-on/off the lights. The only way of stopping the robot is catching it up and shake it. Each team implemented a different robot: 
 * An owl
@@ -33,7 +33,7 @@ We utilized the following software:
 ##Coding
 * Arduino (.ino)
 
-#License.
+#License
 
 ## Arduino code
 All the code is distributed as free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or(at your option) any later version. See [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)
