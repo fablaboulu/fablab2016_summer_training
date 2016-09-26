@@ -1,5 +1,5 @@
 #Project summary
-This repo contains the results of a two-week summer training (06.06.2016 - 17.06.2016) of a group of 14 high-schoolers and secondary school students (15 -18 years) at **[FabLab Oulu](http://www.oulu.fi/fablab/) (University of Oulu, Finland)**. 
+This repo contains the results of a two-week summer training (06.06.2016 - 17.06.2016) of a group of 14 high-schoolers and secondary school students (15 -18 years) at **[FabLab Oulu](http://www.oulu.fi/fablab/) (University of Oulu, Finland)**. This activity was part of the [Fablab4School project](http://fablab4school.fi). 
 
 During the training participants familiarised with FabLab concept, machines and tools. They learnt how to create a Arduino Shield from scratch, including several sensors and actuators, how to use a 3D printer and a laser cutter to create the mechanics for an electronic device as well as Arduino programming principles. The training followed a practical approach. Trainees created a robot that meets the requirements provided during the first day. 
 
